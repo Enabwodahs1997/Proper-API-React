@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: #1f2937;
+	background: linear-gradient(180deg, #f9fafb 0%, #eef2ff 100%);
+	min-height: 100vh;
+}
+
+a {
+	color: inherit;
+}
